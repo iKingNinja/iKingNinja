@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @iKingNinja
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Lua and JavaScript
 
 <!---
 iKingNinja/iKingNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
