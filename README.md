@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @iKingNinja
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Luau and C#
 - I am a Roblox and web developer, for more information visit https://ikingninja.github.io
